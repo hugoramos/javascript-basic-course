@@ -6,7 +6,5 @@ botao.addEventListener("click", function () {
 
     divResultado.innerHTML = ipn.value + "<br />" +  divResultado.innerHTML;
     ipn.value = '';
-    // alert(ipn.value);
-
 });
 
